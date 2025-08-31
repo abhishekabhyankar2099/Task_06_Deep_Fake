@@ -26,4 +26,4 @@ Since many free tools restrict full video generation, I produced an **audio-only
 - Combine audio with stock/street-style video using free editors like CapCut.  
 - Explore student credits for tools like HeyGen or Synthesia.  
 
-## 📁 Repository Structure
+
