@@ -28,10 +28,10 @@ Since many free tools restrict full video generation, I produced an **audio-only
 
 ## 📁 Repository Structure
 Task_06_Deep_Fake/
-│── script.pdf/ # Interview script (Q&A format)
-│── audio/ # Final audio file (MP3)
-│── README.md # Documentation
-│── Task_06_Report.pdf # Full report write-up
+- script.pdf/ # Interview script (Q&A format)
+- audio/ # Final audio file (MP3)
+- README.md # Documentation
+- Task_06_Report.pdf # Full report write-up
 
 ## ⚠️ Note
 Dataset file is **not included** in this repository as per assignment requirements.  
