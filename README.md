@@ -24,6 +24,17 @@ Since many free tools restrict full video generation, I produced an **audio-only
 ## 🚀 Next Steps
 - Experiment with hybrid formats (real interviewer voice + AI respondent).  
 - Combine audio with stock/street-style video using free editors like CapCut.  
-- Explore student credits for tools like HeyGen or Synthesia.  
+- Explore student credits for tools like HeyGen or Synthesia.
+
+## 📁 Repository Structure
+Task_06_Deep_Fake/
+│── script.pdf/ # Interview script (Q&A format)
+│── audio/ # Final audio file (MP3)
+│── README.md # Documentation
+│── Task_06_Report.pdf # Full report write-up
+
+## ⚠️ Note
+Dataset file is **not included** in this repository as per assignment requirements.  
+The focus here is on the **script, tools, and generated audio output.**
 
 
